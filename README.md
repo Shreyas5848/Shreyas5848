@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shreyas Mathapati
+#  Hi, I'm Shreyas Mathapati
 
 🎓 Aspiring Data Scientist | 📍 Bengaluru, India  
 💡 Passionate about Machine Learning, NLP, LLMs, and Data Visualization  
@@ -57,6 +57,8 @@
 - **Google** — Data Analytics Professional Certificate (2024)
 - **Accenture** — Data Analytics & Visualization Virtual Internship
 - **Infosys Springboard** — Data Visualization with Power BI
+- **AWS Cloud Practitioner Essentials** _ Cloud Practioner Learning
+- **BCG** - GenAI Job Simulation on Forage
 
 ---
 
